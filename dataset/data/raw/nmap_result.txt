@@ -1,0 +1,8 @@
+# Nmap 7.94SVN scan initiated Wed Oct  7 15:35:42 2026 as: nmap -sV -sC -oX nmap_result.xml -oN nmap_result.txt 172.21.10.187
+Nmap scan report for 172.21.10.187
+Host is up (0.00010s latency).
+All 1000 scanned ports on 172.21.10.187 are in ignored states.
+Not shown: 1000 closed tcp ports (conn-refused)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Oct  7 15:35:56 2026 -- 1 IP address (1 host up) scanned in 13.25 seconds
